@@ -20,6 +20,3 @@ It allows adding books, borrowing books, returning books, and viewing all availa
    ```bash
    java LibraryManagementSystem
    ```
-
-## 📄 Author
-Generated for Cognizant job application.
